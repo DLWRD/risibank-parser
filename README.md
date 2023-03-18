@@ -10,6 +10,6 @@ Les images téléchargées sont mises dans des sous-dossiers qui se situent dans
 
 # IMPORTANT
 
-Il faut utiliser "Git Bash" pour executer le programme sous Windows, clic-droit et si l'installaitond es dépendances a foncitonné vous verrez "Git Bash here", cliquez la dessus puis glissez le RISIBANK_PARSER_V1 dedans et hop!
+Il faut utiliser "Git Bash" pour executer le programme sous Windows, clic-droit et si l'installation des dépendances a fonctionné vous verrez "Git Bash here", cliquez la dessus puis glissez le RISIBANK_PARSER_V1 dedans et hop!
 
 pour toutes questions, merci de MP DELAWARDE sur Onche.org
