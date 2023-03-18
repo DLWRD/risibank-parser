@@ -1,5 +1,5 @@
 # risibank-parser
-Un parser pour le sstickers de risibank
+Un parser pour les stickers de risibank
 
 COMMENT INSTALLER :
 
