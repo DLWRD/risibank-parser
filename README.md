@@ -1,7 +1,7 @@
 # risibank-parser
 Un parser pour les stickers de risibank
 
-COMMENT INSTALLER :
+# COMMENT INSTALLER
 
 Tu télécharges les fichiers dans un nouveau dossier, puis tu double-cliques sur "install_dependancies_w64" qui va installer Curl (entre autres) pour te permettre d'utilsier l'API de Risibank.
 Laisse faire le programme jusqu'a ce que la fenètre se ferme d'elle-même, et c'est bon! 
