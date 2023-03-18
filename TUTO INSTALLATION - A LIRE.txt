@@ -1,0 +1,14 @@
+=== TUTO D'INSTALLATION WINDOWS ===
+
+  1) clic-droit sur  "install_curl_win64.bat" et ensuite sur "éxécuter en tant qu'amdinistrateur"
+Ce fichier de commandes va télécharger Curl et d'auutres dépendances, dont le programme a besoin pour fonctionner.
+Curl permet, entre autres, de grandement simplifier le transfert de données via commandes, et le programme en tire partie grace à l'API de Risibank.
+Une fois double-cliqué, tout se fait tout seul. Curl est téléchargé puis installé à l'adresse C:/curl-7.87.0. Attend bien que la fenètre se ferme d'elle-même pour continuer.
+Une fois que c'est fait, tu peux supprimer les deux fichiers d'installation, ils ne servent plus à rien
+Si tu veux vérifier le contenu du code (y'a 5 lignes), tu peux ouvrir le fichier dans bloc-notes et constater par toi même :hap:
+
+3) Tu peux désormais lancer RISIBANK_PARSER_V1.sh et suivre les instructions, amuse toi bien kheyou !
+La aussi, le code complet est vérifiable en ouvrant le fichier dans bloc-notes
+
+ - Delawarde
+
